@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="es" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portafolio Profesional - Dr. Edgar Ivan Bañuelos Han</title>
+    <title>Dr. Han</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -37,7 +36,7 @@
         <nav class="container mx-auto px-6 py-3 flex justify-between items-center">
             <a href="#" class="flex items-center space-x-3">
                 <img src="https://lh3.googleusercontent.com/d/1maAAOedgv5OYLvv-vUY4uFg5AlO6PzYU" alt="Logo Dr. Bañuelos Han" class="h-12 w-auto">
-                <span class="hidden sm:block text-xl font-semibold brand-primary-dark">Dr. E. Ivan Bañuelos Han</span>
+                <span class="hidden sm:block text-xl font-semibold brand-primary-dark">Dr. Han</span>
             </a>
             <div class="hidden md:flex space-x-8">
                 <a href="#sobre-mi" class="text-gray-600 hover:brand-accent transition duration-300">Sobre Mí</a>
@@ -64,7 +63,7 @@
 
         <!-- Hero Section -->
         <section id="home" class="text-center min-h-[70vh] flex flex-col justify-center items-center">
-            <h1 class="text-4xl md:text-6xl font-semibold brand-primary-dark leading-tight max-w-4xl">Dr. Edgar Ivan Bañuelos Han</h1>
+            <h1 class="text-4xl md:text-6xl font-semibold brand-primary-dark leading-tight max-w-4xl">Dr. Han</h1>
             <p class="mt-4 text-lg md:text-xl text-gray-600 font-medium max-w-3xl">Médico Ocupacional especializado en optimizar el bienestar laboral a través del análisis de datos y la mejora continua de procesos.</p>
             <p class="mt-6 max-w-3xl text-gray-500">
                 Con experiencia en corporativos líderes, implemento programas de salud preventiva y gestiono normativas de seguridad, utilizando herramientas como Power BI y Lean Six Sigma para crear entornos de trabajo más seguros y eficientes.
@@ -210,7 +209,7 @@
     <!-- Footer -->
     <footer class="bg-gray-200">
         <div class="container mx-auto px-6 py-4 text-center text-gray-500 text-sm">
-            <p>&copy; 2025 Dr. Edgar Ivan Bañuelos Han. Todos los derechos reservados. Zapopan, Jalisco, México.</p>
+            <p>&copy; 2025 Dr. Han. Todos los derechos reservados. Zapopan, Jalisco, México.</p>
         </div>
     </footer>
 
@@ -392,4 +391,3 @@
     </script>
 </body>
 </html>
-
